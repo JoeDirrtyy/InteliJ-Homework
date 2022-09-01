@@ -1,2 +1,2 @@
-# InteliJ-Homework
-Homework for InteliJ
+//# InteliJ-Homework
+//Homework for InteliJ
